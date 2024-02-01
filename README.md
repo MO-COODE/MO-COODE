@@ -1,4 +1,4 @@
-Hi there! this is a product landing page
+Hi there! this is a product landing page.
 
 <!--
 **MO-COODE/MO-COODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
